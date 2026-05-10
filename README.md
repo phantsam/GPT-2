@@ -22,7 +22,7 @@ This project is based on:
 
 ## Training Data
 
-GPT-2 was trained on **WebText** — a dataset of 45 million outbound links from Reddit, filtered for quality. The data cuts off at end of 2017.
+GPT-2 was trained on **WebText**, a dataset of 45 million outbound links from Reddit, filtered for quality. The data cuts off at end of 2017.
 
 ## Caveats
 
